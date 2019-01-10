@@ -24,7 +24,7 @@
 - Transforms it into a format that can serve business needs.
 - And loads it to a data warehouse.
 
-For other details please take a look to presentation file.
+For other details please take a look to [presentation file](https://github.com/rnglab/presentations/raw/master/etl/rngEtlExtractTransformLoad.pptx).
 
 
 
